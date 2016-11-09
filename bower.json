@@ -1,5 +1,6 @@
 {
   "name": "demo_bower_package",
+  "version": "0.0.2",
   "homepage": "https://github.com/JonSchwartz93/demo_bower_package",
   "authors": [
     "JonSchwartz93 <josch@umich.edu>"
