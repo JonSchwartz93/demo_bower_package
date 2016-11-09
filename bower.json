@@ -1,0 +1,20 @@
+{
+  "name": "demo_bower_package",
+  "homepage": "https://github.com/JonSchwartz93/demo_bower_package",
+  "authors": [
+    "JonSchwartz93 <josch@umich.edu>"
+  ],
+  "description": "a simple HTML element rotate library",
+  "main": "rotate.js",
+  "keywords": [
+    "rotate"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
